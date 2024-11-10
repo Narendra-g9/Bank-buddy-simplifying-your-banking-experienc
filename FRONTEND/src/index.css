@@ -1,6 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-.active {
-background-color: rgb(81, 82, 82);
-color: white;}
